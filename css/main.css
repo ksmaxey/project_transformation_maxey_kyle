@@ -34,14 +34,8 @@ p, ul, ol {
     line-height: 180%;
 }
 
-ul, ol {
-}
-
 a {
     color: #5E5E5E;
-}
-
-a:hover {
 }
 
 #wrapper {
@@ -73,9 +67,6 @@ a:hover {
     margin: 0;
     padding: 0;
     color: #FFFFFF;
-}
-
-#logo h1, #logo p {
 }
 
 #logo h1 {
@@ -191,9 +182,6 @@ a:hover {
     background: url(../img/img01.jpg) repeat;
     text-decoration: none;
     color: #FFFFFF;
-}
-
-#menu .current_page_item a {
 }
 
 /* Page */
@@ -333,9 +321,6 @@ a:hover {
 
 /* Calendar */
 
-#calendar {
-}
-
 #calendar_wrap {
     padding: 20px;
 }
@@ -391,9 +376,6 @@ a:hover {
 
 #footer-content #fbox3 {
     width: 300px;
-}
-
-#footer-content a {
 }
 
 #column1 {
@@ -469,10 +451,6 @@ a:hover {
     height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
 }
-
-#banner .content {
-}
-
 
 .list-style1 {
     margin: 0px;

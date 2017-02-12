@@ -43,7 +43,6 @@ a {
 }
 
 .container {
-    width: 1000px;
     margin: 0px auto;
 }
 
@@ -54,7 +53,6 @@ a {
 }
 
 #header {
-    width: 1000px;
     height: 150px;
     margin: 0 auto;
     padding: 0px 0px;
@@ -103,7 +101,6 @@ a {
 /* Splash */
 
 #splash {
-    width: 960px;
     height: 300px;
     margin: 0px auto;
 }
@@ -341,7 +338,6 @@ a {
 
 #footer-content {
     overflow: hidden;
-    width: 1000px;
     margin: 0px auto;
     color: #D6E2F0;
 }
@@ -447,9 +443,12 @@ a {
 
 #banner {
     margin: 0px auto;
-    width: 1000px;
-    height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
+}
+
+#banner img {
+    width: 100%;
+    height: auto;
 }
 
 .list-style1 {

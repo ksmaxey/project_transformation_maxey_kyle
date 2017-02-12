@@ -1,3 +1,8 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 .visuallyhidden {
     border: 0;
     clip: rect(0 0 0 0);
@@ -57,10 +62,6 @@ a {
     background: #ffffff url(../img/img05.jpg) repeat;
 }
 
-.container {
-    margin: 0 auto;
-}
-
 /* Navigation */
 @media all and (min width: 600px) {
     nav li {
@@ -95,7 +96,6 @@ a {
 
 /* Logo */
 #logo {
-    width: 300px;
     margin: 0;
     padding: 0;
     color: #ffffff;

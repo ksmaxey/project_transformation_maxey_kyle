@@ -209,6 +209,7 @@ a {
     border: none;
     text-decoration: none;
     color: #222222;
+    font-size: 1.8em;
 }
 
 .post .meta {
@@ -302,6 +303,10 @@ aside h2 {
     letter-spacing: -0.5;
     font-size: 1.8em;
     color: #222222;
+}
+
+aside h3 {
+    font-size: 1.8em;
 }
 
 aside p {

@@ -186,7 +186,7 @@ a {
 
 #menu a:hover,
 #menu .current_page_item a {
-    background: url(../img/img01.jpg) repeat;
+    background: url(../img/img01.jpg);
     text-decoration: none;
     color: #ffffff;
 }
@@ -367,9 +367,9 @@ aside a:hover {
 }
 
 #banner {
-    background: url(../img/img03.png) no-repeat;
-    background-size: contain;
-    background-position: center bottom;
+    background: url(../img/img03.png) no-repeat left bottom;
+    width: 100%;
+    height: auto;
 }
 
 #banner img {

@@ -90,7 +90,7 @@ a {
 @media all and (min-width: 1000px) {
     nav li {
         display: inline-block;
-        width: calc(100% / 5 / 1);
+        width: calc(100% / 5);
         padding-bottom: 30px;
     }
 
@@ -106,8 +106,6 @@ a {
         text-align: center;
     }
 }
-
-
 
 /* Header */
 #header-wrapper {
@@ -242,10 +240,6 @@ a {
 }
 
 /* Content */
-#content {
-    padding: 0 0 0 0;
-}
-
 .post {
     overflow: hidden;
     margin-bottom: 40px;
@@ -366,6 +360,18 @@ a {
 
 #sidebar a:hover {
     text-decoration: underline;
+}
+
+@media (min-width: 1000px) {
+    #content {
+        float: right;
+        margin-left: 1.5em;
+        width: calc(100% / 3 * 2);
+    }
+    #sidebar {
+        float: left;
+        width: calc(100% / 3 - 1.5em);
+    }
 }
 
 /* Calendar */

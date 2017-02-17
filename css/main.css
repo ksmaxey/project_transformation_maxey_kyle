@@ -73,26 +73,41 @@ a {
 }
 
 /* Navigation */
-@media all and (min width: 600px) {
+@media all and (min width: 500px) {
     nav li {
         display: inline-block;
         width: 50%;
     }
 }
 
-@media all and (min-width: 800px) {
+@media all and (min-width: 700px) {
     nav li {
         display: inline-block;
-        width: calc(100% / 2.5);
+        width: calc(100% / 2);
     }
 }
 
-@media all and (min-width: 1000px) {
+@media all and (min-width: 900px) {
     nav li {
         display: inline-block;
-        width: calc(100% / 5);
+        width: calc(100% / 5 / 1);
+        padding-bottom: 30px;
+    }
+
+    nav ul {
+        float: right;
+    }
+
+    #logo h1 {
+        float: left;
+    }
+
+    #banner {
+        text-align: center;
     }
 }
+
+
 
 /* Header */
 #header-wrapper {

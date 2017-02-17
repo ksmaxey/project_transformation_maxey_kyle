@@ -243,6 +243,7 @@ a {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
+    float: left;
 }
 
 .comments {
@@ -253,6 +254,7 @@ a {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
+    float: left;
 }
 
 /* Sidebar */

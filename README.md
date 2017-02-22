@@ -6,7 +6,7 @@
 
 [W3C Validator](https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.ksmaxey.com%2Fresponsive%2F&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en)
 
-[HTML5 Validator]()
+[HTML5 Validator](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.ksmaxey.com%2Fresponsive%2F)
 
 # Resources
 I did not use any resources outside of the lectures and my notes on this assignment.
